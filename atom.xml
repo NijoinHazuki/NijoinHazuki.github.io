@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>孙虏の博客</title>
+  
+  
+  <link href="https://nijoinhazuki.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://nijoinhazuki.github.io/"/>
+  <updated>2022-09-02T07:05:19.053Z</updated>
+  <id>https://nijoinhazuki.github.io/</id>
+  
+  <author>
+    <name>常睿</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://nijoinhazuki.github.io/2022/09/02/test/"/>
+    <id>https://nijoinhazuki.github.io/2022/09/02/test/</id>
+    <published>2022-09-02T06:47:45.000Z</published>
+    <updated>2022-09-02T07:05:19.053Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;$y = f(x)$&lt;br&gt;\[y = {f_{ {g_1}}}(x)\]&lt;br&gt;djhsavdhbjkjasgdhjasv khdjsahnd</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://nijoinhazuki.github.io/2022/08/30/hello-world/"/>
+    <id>https://nijoinhazuki.github.io/2022/08/30/hello-world/</id>
+    <published>2022-08-30T06:32:38.337Z</published>
+    <updated>2022-08-30T06:32:38.337Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
